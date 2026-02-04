@@ -5,12 +5,19 @@ An intelligent resume screening tool that matches candidate skills against job d
 ## Features
 
 ✅ **Multi-file Resume Upload** - Process multiple PDF/DOCX resumes at once
+
 ✅ **Skill Extraction** - Automatically extracts 300+ technical and soft skills
+
 ✅ **Job Description Parsing** - Analyzes JD requirements
+
 ✅ **Confidence Scoring** - Calculates match percentage
+
 ✅ **Interview Recommendations** - Auto-categorizes: Interview, Maybe, Not now
+
 ✅ **Alternate Role Suggestions** - Suggests better-fitting roles for low-match candidates
+
 ✅ **Candidate Profiles** - Exports structured JSON profiles
+
 ✅ **Visual Dashboard** - Color-coded results table
 
 ## Setup Instructions
@@ -188,5 +195,10 @@ MIT License - See LICENSE file for details
 
 ## Author
 
+Siddharth Saravanan
 Dhanush Mathivanan
+Aswin Balaji Thippa Ramesh
+Gowri Sriram Lakshmanan
+Barathkumar Anantharaj
+
 GWU Venture Competition 2026
