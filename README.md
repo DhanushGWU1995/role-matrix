@@ -195,10 +195,10 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-Siddharth Saravanan
-Dhanush Mathivanan
-Aswin Balaji Thippa Ramesh
-Gowri Sriram Lakshmanan
-Barathkumar Anantharaj
+- **Siddharth Saravanan**
+- **Dhanush Mathivanan**
+- **Aswin Balaji Thippa Ramesh**
+- **Gowri Sriram Lakshmanan**
+- **Barathkumar Anantharaj**
 
 GWU Venture Competition 2026
